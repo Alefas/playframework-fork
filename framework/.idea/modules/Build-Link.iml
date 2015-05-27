@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Build-Link" external.linked.project.path="$MODULE_DIR$/../../src/build-link" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../src/build-link/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../src/build-link/target/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/build-link">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/target/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/target/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/target/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/build-link/target/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../src/build-link/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Play-Exceptions" exported="" />
+    <orderEntry type="library" name="SBT: org.javassist:javassist:3.19.0-GA:jar" level="project" />
+  </component>
+</module>

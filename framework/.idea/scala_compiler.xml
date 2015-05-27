@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="Play-Framework,Build-Link,Fork-Run,SBT-Fork-Run-Protocol,Fork-Run-Protocol,Play-Iteratees,Play,Play-Akka-Http-Server-Experimental,Play-Cache,Play-DataCommons,Play-Docs,Play-Docs-SBT-Plugin,Play-Exceptions,Filters-Helpers,Play-Functional,Play-Integration-Test,Play-Java,Play-Java-JDBC,Play-Java-JPA,Play-Java-WS,Play-JDBC,Play-JDBC-Api,Play-JDBC-Evolutions,Play-Json,Play-Netty-Server,Play-Netty-Utils,Play-Server,Play-Specs2,Play-Streams-Experimental,Play-Test,Play-WS,Routes-Compiler,Run-Support,SBT-Run-Support,SBT-Fork-Run-Plugin,SBT-Plugin">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

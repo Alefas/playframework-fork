@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.eu.acolyte:jdbc-driver:1.0.33-j7p:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eu.acolyte/jdbc-driver/jars/jdbc-driver-1.0.33-j7p.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
